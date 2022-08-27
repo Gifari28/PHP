@@ -1,0 +1,13 @@
+Cara menjalankan PHP di CMD
+
+php --version == untuk melihat versi php yg dipakai
+
+menjalankan php
+
+Downloads\belajar-php-dasar-master\belajar-php-dasar-master == mencari file terlebih dahulu agar dapat di baca
+
+ketik "php HelloWorld.php(nama file code)"
+
+
+
+https://github.com/ProgrammerZamanNow/programmerzamannow.github.io
