@@ -1,0 +1,33 @@
+
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` varchar(100),
+  `email` varchar(100),
+  `mobile` varchar(15),
+  PRIMARY KEY  (`id`)
+);
+
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(1, 'Hamdan Rahmad', 'hamdzatt@gmail.com', '083226874589');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(2, 'Mirna Dewi Susanti', 'santi.su@gmail.com', '083176876220');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(3, 'Ahmad Baidowi', 'baidgoup@gmail.com', '085232886642');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(4, 'Ruslan Fahmi Siregar', 'r.fahmi.s@gmail.com', '081217888562');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(5, 'Ahmad Dahlan Sutejo', 'ad.sutejo@gmail.com', '081657888990');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(6, 'Fahmi Rahmat Susanto', 'fahmirs@gmail.com', '081773987009');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(7, 'Rizky Firmansyah', 'firm.rizky@gmail.com', '081763908881');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(8, 'Busro Muqqodas', 'busro.mq@gmail.com', '081726555339');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(9, 'Dini Mufrida', 'mufrida.d@gmail.com', '081765987009');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(10, 'Maryani Himvie Safrida', 'maryanee@gmail.com', '081215876552');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(11, 'Bambang Satriawan', 'bamstamvan@gmail.com', '081657898007');
+INSERT INTO `users` (`id`, `name`, `email`, `mobile`) VALUES
+(12, 'Sari Dewi Astika', 'dewiastika@gmail.com', '081217888220');
