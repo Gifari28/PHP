@@ -1,0 +1,25 @@
+* Ganti Sesuai API Telegram
+getMe: https://api.telegram.org/bot5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ/getMe
+getUpdates: https://api.telegram.org/bot5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ/getUpdates
+getWebhookInfo: https://api.telegram.org/bot5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ/getWebhookInfo
+setWebhook: https://api.telegram.org/bot5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ/setWebhook
+
+* Ganti Sesuai Bot Pribadi
+id: 5542606286
+first_name: 20081010249 Dimas Bitcoin_bot
+username: Bitcoin_20081010249_bot
+link: t.me/Bitcoin_20081010249_bot
+token: 5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ
+
+* Ganti Sesuai Hosting
+domain: https://dimassatria249.000webhostapp.com/botBitcoin/bot.php
+setWebHook: https://api.telegram.org/bot5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ/setWebhook?url=
+setWebHook+Url: https://api.telegram.org/bot5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ/setWebhook?url=https://dimassatria249.000webhostapp.com/botBitcoin/bot.php
+
+* Ganti Sesuai Koneksi Database
+TOKEN: 5542606286:AAE98MN_-A0u2BifIvwotkPCg8o2EHZ64PQ
+DB_USER: id18446237_bitcoin2
+DB_HOST: localhost
+DB_PASS: Dimassp_2002
+DB_NAME: id18446237_bitcoin1
+
